@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuideESTG</string>
+    <string name="sala">Class Room</string>
+    <string name="auditorio">Auditorium</string>
+    <string name="laboratorio">Laboratory</string>
+    <string name="bar">Bar</string>
+    <string name="cantina">Bufete</string>
+    <string name="reprografia">Reprographics</string>
+</resources>
